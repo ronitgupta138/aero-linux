@@ -297,6 +297,19 @@ See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full project acknowledgments.
 
 ---
 
+## 💖 Sponsoring & Infrastructure Support
+
+Aero Linux is 100% free and open-source software (FOSS). Your sponsorship directly funds dedicated multi-arch CI runners, package mirror hosting, and bare-metal testing infrastructure:
+
+* **☕ Supporter ($5/mo):** Sponsor badge on your GitHub profile and listed as a backer on the project README.
+* **🚀 Active Backer ($10/mo):** Named credit in official Aero Linux release notes and priority issue triage.
+* **⚡ Power Contributor ($25/mo):** Direct influence on roadmap RFCs and early access to pre-release ISO builds.
+* **🏢 Organization Sponsor ($100/mo):** Company or individual logo and link on the official Aero Linux portal & README.
+
+👉 **[Sponsor Aero Linux on GitHub Sponsors](https://github.com/sponsors/ronitgupta138)**
+
+---
+
 ## 📜 License
 
 Distributed under the **MIT License**. Created by [Ronit Gupta](https://github.com/ronitgupta138) and Contributors.
