@@ -11,7 +11,7 @@
 
 ### **The Ultra-Lean AI & High-Performance Developer Operating System**
 
-[![GitHub Stars](https://badgen.net/github/stars/ronitgupta138/aero-linux?icon=github&color=0891b2)](https://github.com/ronitgupta138/aero-linux/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/ronitgupta138/Aero-Linux?style=flat-square&logo=github&color=0891b2)](https://github.com/ronitgupta138/Aero-Linux/stargazers)
 [![Web Portal](https://img.shields.io/badge/Web_Portal-Live_Portal-0891b2.svg?style=flat-square)](https://ronitgupta138.github.io/aero-linux/)
 [![Release](https://img.shields.io/badge/Release-v1.5.0--Pulsar-0284c7.svg?style=flat-square)](https://github.com/ronitgupta138/aero-linux/releases)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-ea4aaa.svg?style=flat-square&logo=githubsponsors)](https://github.com/sponsors/ronitgupta138)
